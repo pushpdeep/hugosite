@@ -12,8 +12,8 @@ publishDir = "docs"
 
     # To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-    name = "Mr. Hugo"
-    description = "My awesome description"
+    name = "Pushpdeep Mishra"
+    description = "My Profile Site"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -26,21 +26,21 @@ publishDir = "docs"
     # - send a dummy email youself to confirm your account
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
-    email = "your@email.com"
+    email = "pushpdeep@iitb.ac.in"
 
     # Custom assets
 	custom_css = []
 	custom_js  = []
 
     [params.navigation]
-        brand = "Mr. Hugo's Portfolio"
+        brand = "Pushpdeep's Portfolio"
 
 
     [params.header]
         # Copy your own image into './static/img/'' if you wish
         image = "profile.png"
-        name = "Mr. Hugo"
-        subtitle = "Blogger - Programmer - Gopher"
+        name = "Pushpdeep"
+        subtitle = "Blogger - Programmer - Writer"
 
 
     [params.portfolio]
